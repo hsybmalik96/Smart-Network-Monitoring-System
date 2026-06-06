@@ -24,6 +24,8 @@ This project is designed to monitor network traffic, analyze packets, and detect
 
 - Python 🐍  
 - Scapy (for packet analysis)  
+- Streamlit , Pandas ,  Plotly
+- SQ lite 
 - SMTP (for email alerts)  
 - Basic UI (Dashboard)  
 
@@ -78,8 +80,8 @@ python main.py
 
 ## 📬 Contact
 
-- 📱 WhatsApp: https://wa.me/923XXXXXXXXXX  
-- 💼 LinkedIn: https://linkedin.com/in/yourusername  
+- 📱 WhatsApp: https://wa.me/923400223450
+- 💼 LinkedIn: www.linkedin.com/in/haseeb-shahid-ba47913a8
 
 ---
 
