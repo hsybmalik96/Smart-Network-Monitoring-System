@@ -195,8 +195,8 @@ python main.py
 
 ## 📬 Contact
 
-- 📱 **WhatsApp:** [Click to Chat](https://wa.me/923XXXXXXXXXX)
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📱 **WhatsApp:** [Click to Chat](https://wa.me/923400223450)
+- 💼 **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/haseeb-shahid-ba47913a8)
 
 ---
 
